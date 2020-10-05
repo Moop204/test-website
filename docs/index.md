@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+# How to Write a Story
+
+Stories start off by giving a beginning, a middle and an ending.
+
+By giving a intro, you are listing
+
 
 You can use the [editor on GitHub](https://github.com/Moop204/test-website/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
